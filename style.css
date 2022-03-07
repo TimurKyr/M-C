@@ -1,0 +1,16 @@
+body {
+    margin: 10px 5% 10px 5%;
+}
+
+/* style by class */
+.heading {
+    width: fit-content;
+    margin: 10px auto 10px auto;
+    border: 3px solid rgb(108, 172, 255);
+    color: rgb(250, 67, 67);
+}
+
+/* style by id */
+#js_link {
+    font-size:xx-large;
+}
